@@ -1,0 +1,11 @@
+id,edad_jubilacion,pension_proyectada_base,pension_optimista,pension_pesimista,recomendacion_aportacion
+1,65,12500,14500,10500,Aumentar 2000 mensuales
+2,65,18000,21000,15000,Mantener aportación
+3,65,5000,9500,7500,Aumentar 3000 mensuales
+4,65,22000,25000,19000,Mantener aportación
+5,65,4000,8000,6000,Aumentar 2500 mensuales
+6,65,16000,18500,13500,Aumentar 1000 mensuales
+7,65,24000,27500,20500,Mantener aportación
+8,65,13500,15500,11500,Aumentar 1500 mensuales
+9,65,9000,10500,7500,Aumentar 3000 mensuales
+10,65,19500,22500,16500,Mantener aportación

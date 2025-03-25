@@ -1,0 +1,11 @@
+id,nombre,edad,salario,años_cotizacion,estado_civil,hijos,escolaridad,riesgo_pension_insuficiente,fondo_actual
+1,Juan Pérez,45,25000,15,Casado,2,Universidad,Medio,Balanceado
+2,María García,38,32000,10,Soltero,0,Universidad,Bajo,Crecimiento
+3,Carlos López,52,18000,28,Casado,3,Preparatoria,Alto,Crecimiento
+4,Ana Martínez,29,28000,5,Soltero,0,Universidad,Bajo,Crecimiento
+5,Luis Ramírez,60,15000,35,Casado,1,Preparatoria,Alto,Crecimiento
+6,Sofía Díaz,41,38000,18,Divorciado,2,Universidad,Medio,Balanceado
+7,Jorge Cruz,35,42000,12,Soltero,0,Universidad,Bajo,Crecimiento
+8,Patricia Ruiz,48,29000,22,Casado,3,Universidad,Medio,Balanceado
+9,Fernando Vázquez,30,21000,30,Casado,2,Preparatoria,Alto,Conservador
+10,Adriana Soto,33,35000,8,Soltero,1,Universidad,Bajo,Crecimiento
